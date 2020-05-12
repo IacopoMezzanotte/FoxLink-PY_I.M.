@@ -1,5 +1,5 @@
 import json
-from kafka import KafkaProducer, KafkaClient, SimpleProducer
+from kafka import KafkaProducer, KafkaClient
 from time import sleep
 import mongodb_interface as mongo
 
