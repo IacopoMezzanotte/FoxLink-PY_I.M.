@@ -127,7 +127,7 @@ https://www.forumroma.it/;0
 https://www.forumroma.it/attivita/tennis-pro/;0
 https://italian.alibaba.com/;1
 https://www.alibaba.com/catalogs/products/CID100002954?spm=a27aq.13817715.hot_categories.1.798971a9GNeLj0&SearchScene=cps&IndexArea=product_en;1
-https://italian.alibaba.com/product-detail/sipu-high-speed-3-0-nylon-braided-3in1-usb-cable-for-type-c-android-cell-phone-62164449810.html?spm=a2700.gallery_search_cps.normalList.9.7d5d2bcc7KtjoF;0
+https://italian.alibaba.com/product-detail/sipu-high-speed-3-0-nylon-braided-3in1-usb-cable-for-type-c-android-cell-phone-62164449810.html?spm=a2700.gallery_search_cps.normalList.9.7d5d2bcc7KtjoF;1
 http://www.nadiras.it/;0
 https://www.comet.it/;1
 https://www.comet.it/offerte-del-giorno?gclid=EAIaIQobChMI2O3D3obZ6gIVlOh3Ch1M8wYPEAAYASAAEgIv_PD_BwE;1
@@ -184,6 +184,14 @@ https://store.leica-camera.com/it/it/fotocamere-leica-s;1
 https://store.leica-camera.com/it/it/leica-s3-nera;1
 https://www.coldiretti.it/;0
 https://www.coldiretti.it/firmato-dagli-agricoltori-italiani;0
+
+DOMINI:184 
+POSITIVI:108 FORSE
+NEGATIVI:76
+POSITIVI/NEGATIVI:1,421
+CATALOGHI:46
+HOMEPAGE:76
+PAGINA PRODOTTO SPECIFICO/Altro: 62
 ==================================================================================================================
 CLASSIFIER PAGE
 
@@ -201,7 +209,7 @@ https://www.unieuro.it/online/Fotocamere-subacquee/W100-pidNIKW100PINK;1
 https://www.svapoweb.it/sigarette-elettroniche-kit/sigarette-elettroniche-tiro-di-guancia/kit-artery-pal-1200mah-colore-blood-diamond;0
 https://www.mediaworld.it/product/p-989040/nikon-d3500-18-140vr;1
 https://www.euroffice.it/product/penna-a-sfera-cristal-bic-value-pack-medium-nero-1-mm-conf-9010-gratis/ib8212;0
-https://it.pandora.net/it/gioielli/charm/charm/disney%2C-charm-stitch-di-lilo-e-stitch/798844C01.html?cid=sem:ge:e:lt-lt::Google_DPA:ecommerce:evergreen:ot:::Initiative&ps_kw=&cid=&gclid=EAIaIQobChMIlse52KXR6gIVjevtCh0VwQj-EAQYAiABEgJmLPD_BwE&gclsrc=aw.ds;o
+https://it.pandora.net/it/gioielli/charm/charm/disney%2C-charm-stitch-di-lilo-e-stitch/798844C01.html?cid=sem:ge:e:lt-lt::Google_DPA:ecommerce:evergreen:ot:::Initiative&ps_kw=&cid=&gclid=EAIaIQobChMIlse52KXR6gIVjevtCh0VwQj-EAQYAiABEgJmLPD_BwE&gclsrc=aw.ds;0
 https://www.euronics.it/action-cam/gopro/hero8/eProd192012442/;1
 https://www.rebuy.it/i,10391447/fotocamere-digitali/panasonic-lumix-dmc-fz200-nero;1
 https:/https://www.hihonor.com/italy/product/honor-magic-watch2#18239269714995;0
@@ -265,7 +273,17 @@ https://www.samsung.com/it/;0
 https://www.samsung.com/it/smartphones/all-smartphones/;0
 https://www.sony.it/electronics/obiettivi-fotocamera/sel1224gm?cpint=SG_CATEGORY_SEC-TOUT-OTHER-SEL1224GM-EN_GL-2020-04-M01-ULTRAWIDEF28-TOUT01-ULTRAWIDEF28;0
 
+DOMINI:76 
+POSITIVI:28
+NEGATIVI:48
+POSITIVI/NEGATIVI:0.583
+HOMEPAGE:6
+CATALOGHI:7
+PAGINA PRODOTTO SPECIFICO:63
 
+============================================================================================================================================================================
+
+PRECISION:      RECALL:       
 
 SCRIVERE I DATI DEL TRAINING SET ACCURATAMENTE (DOMINI CATALOGHI PRODOTTI NEGATIVI POSITIVI);
 CONSIGLIO ISOLARE I MICROSERVIZI****
