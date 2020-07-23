@@ -285,6 +285,7 @@ PAGINA PRODOTTO SPECIFICO:63
 
 SCRIVERE I DATI DEL TRAINING SET ACCURATAMENTE (DOMINI CATALOGHI PRODOTTI NEGATIVI POSITIVI);
 Non troviamo le label products nei cluster (negli indexes troviamo anche pagine di prodotti mischiate a cataloghi), riguardare alcuni casi del training set, discorso dei doppioni, analisi del secondo classificatore.
+consiglio gusrda wxphotovideo a volte ci sono pure 3 cluster
 CONSIGLIO ISOLARE I MICROSERVIZI****
 
 
