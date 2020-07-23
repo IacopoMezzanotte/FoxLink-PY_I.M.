@@ -186,7 +186,7 @@ https://www.coldiretti.it/;0
 https://www.coldiretti.it/firmato-dagli-agricoltori-italiani;0
 
 DOMINI:184 
-POSITIVI:108 FORSE
+POSITIVI:108 
 NEGATIVI:76
 POSITIVI/NEGATIVI:1,421
 CATALOGHI:46
@@ -281,11 +281,10 @@ HOMEPAGE:6
 CATALOGHI:7
 PAGINA PRODOTTO SPECIFICO:63
 
-============================================================================================================================================================================
-
-PRECISION:      RECALL:       
+============================================================================================================================================================================       
 
 SCRIVERE I DATI DEL TRAINING SET ACCURATAMENTE (DOMINI CATALOGHI PRODOTTI NEGATIVI POSITIVI);
+Non troviamo le label products nei cluster (negli indexes troviamo anche pagine di prodotti mischiate a cataloghi), riguardare alcuni casi del training set, discorso dei doppioni, analisi del secondo classificatore.
 CONSIGLIO ISOLARE I MICROSERVIZI****
 
 
