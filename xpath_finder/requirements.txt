@@ -1,4 +1,4 @@
 kafka-python==1.4.3
 pymongo
 pattern
-request
+requests

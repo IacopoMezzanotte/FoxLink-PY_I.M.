@@ -49,8 +49,8 @@ def main():
                             prediction = classifier.predict(model=model, input=page_text)
                             if prediction == [1]:
                                 filtered_list.append(page_dict)
-                        else:
-                            filtered_list.append(page_dict)
+                        #else:
+                           # filtered_list.append(page_dict)
                     content = {
                         'domain': domain,
                         'filtered_pages': filtered_list
