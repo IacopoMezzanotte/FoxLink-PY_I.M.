@@ -189,13 +189,11 @@ https://www.luiss.edu/university/work-with-us;0
 https://gomp.uniroma3.it/WorkFlow2011/Logon/Logon.aspx?ReturnUrl=%2f;0
 https://www.hledejlevne.cz;0
 
-DOMINI:184 +4
+DOMINI:188
 POSITIVI:108 
-NEGATIVI:76 +4
-POSITIVI/NEGATIVI:1,421  ora:1,35
-CATALOGHI:46
-HOMEPAGE:76
-PAGINA PRODOTTO SPECIFICO/Altro: 62
+NEGATIVI:81
+POSITIVI/NEGATIVI:1,33
+
 ==================================================================================================================
 CLASSIFIER PAGE
 
@@ -234,7 +232,7 @@ https://it.shein.com/Glitter-High-Waisted-Bikini-Swimsuit-p-1177513-cat-1866.htm
 https://www.tannico.it/champagne-brut-2008-dom-perignon.html?utm_source=ShoppingCantineEXA_Mobile&utm_medium=cpc&utm_campaign=IT_shopping_cantine_exa&nol=true&ep=true&gclid=EAIaIQobChMIyLex3anR6gIVTbDtCh1euQTSEAQYASA;0
 https://www.eprice.it/TV-LED-LG-Tv-32LM6300-3FHD-HDRpro-2USB-QC-32LM6300PLA/d-13102189;0
 https://it.banggood.com/IMars-7-Inch-2-Din-for-Android-8_0-Car-Stereo-Radio-MP5-Player-2_5D-Screen-GPS-WIFI-bluetooth-FM-with-Rear-Camera-p-1411488.html?gmcCountry=IT&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=xibei&utm_campaign=xibei-PLA-itg-07dp-stage1-0623&ad_id=443999909733&gclid=EAIaIQobChMIzpavj6rR6gIVw7TtCh078gWCEAQYASABEgKjS_D_BwE&cur_warehouse=HK;0
-https://www.alibaba.com/product-detail/New-Canon-EOS-1300D-Rebel-T6_50043797073.html?spm=a2700.themePage.youMayLike.26.562b5d284z8dPc:1
+https://www.alibaba.com/product-detail/New-Canon-EOS-1300D-Rebel-T6_50043797073.html?spm=a2700.themePage.youMayLike.26.562b5d284z8dPc;1
 https://www.comet.it/fotocamera-compatte/sony-cyber-shot-dsc-rx100-nero;1
 https://mistoreitalia.com/index.php/smart-home/mi-monitor-temperature-humidity.html;0
 https://www.kyndes.com/fotocamera-nikon-COOLPIXA10SILVER/product/6645956;1
@@ -255,13 +253,26 @@ https://www.panasonic.com/it/consumer/fotocamere-e-videocamere/fotocamere-lumix-
 https://it.mukako.com/it/mutable-il-tavolo-multigioco-da-1-a-8-anni?gclid=EAIaIQobChMI--7gnK7R6gIVS-J3Ch2kyQbVEAQYAiABEgJqP_D_BwE&gclsrc=aw.ds;0
 https://store.leica-camera.com/it/it/leica-cl-edition-paul-smith;1
 https://www.douglas.it/productbrand_544728.html?cpkey=81Q8SdFcK7qo2ZrpCFARfLW26lRUxvh504GjkaeWRiicU_mCNVWNkuum4cgoQAUk&trac=it.01psh.goo.3907649567.544728.51908432095.000000&gclid=EAIaIQobChMIhPXZ063R6gIVB9-yCh2x5wfGEAQYASABEgLupfD_BwE;0
+https://www.uniroma1.it/it/pagina-strutturale/home;0
+https://corsidilaurea.uniroma1.it/;0
+https://tiermaker.com/;0
+https://www.rowenta.com/;0
 https://www.rowenta.it/p/studio-dry-blowdryer-cv5812/1830007697;0
 https://www.unieuro.it/online/Fotocamere-bridge/DSC-H300-pidSONDSCH300B?utm_medium=textlink_na&utm_source=trovaprezzi.it&utm_content=dinamica_prospect_na_vvkb35e39811cb8434fc874&utm_campaign=unieuro_cross_multi_alwayson&dedup=trovaprezzi&dclid=CJqrwd2QxegCFacD0wodCtYEiQ;1
+http://www.copic.it/;0
+http://www.copic.it/pennarelli/copic-marker;0
 https://store.canon.it/canon-eos-4000d/3011C007/;1
+https://www.ticketone.it/;0
+https://www.ticketone.it/biglietti.html?affiliate=ITT&doc=category&fun=kategorieliste&detailadoc=erdetaila&detailbdoc=evdetailb&hkId=55&kategorieKuerzel=Pop&nurbuchbar=true&showFilter=yes&tipps=yes;0
 https://www.ticketone.it/achille-lauro-biglietti.html?affiliate=ITT&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=2601595;0
 https://www.amazon.it/Sony-DSC-HX350B-Fotocamera-stabilizzazione-Grandangolo/dp/B01MU31H1P/ref=asc_df_B01MU31H1P/?tag=googshopit-21&linkCode=df0&hvadid=103301125139&hvpos=&hvnetw=g&hvrand=10933211200510374748&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008736&hvtargid=pla-475078831192&psc=1&language=it_IT;1
 https://eu.polaroid.com/products/onestep2-polaroid-camera?utm_source=google&utm_medium=surfaces&utm_campaign=shopping%20feed&utm_content=free%20google%20shopping%20clicks&gclid=Cj0KCQjw3s_4BRDPARIsAJsyoLP9CZaxj6pOThM9rdTDYxJGX5xHOayvsoglYVURWHHmfWL9p1Q2DOgaAgYwEALw_wcB;1
+https://www.spotify.com/it/;0
+https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b;0
+https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz;0
 https://eu.polaroid.com/collections/polaroid-600-cameras;1
+https://www.samsung.com/it/;0
+https://www.samsung.com/it/smartphones/all-smartphones/;0
 https://www.sony.it/electronics/obiettivi-fotocamera/sel1224gm?cpint=SG_CATEGORY_SEC-TOUT-OTHER-SEL1224GM-EN_GL-2020-04-M01-ULTRAWIDEF28-TOUT01-ULTRAWIDEF28;0
 https://www.amazon.com/Revlon-One-Step-Dryer-Volumizer-Brush/dp/B01LSUQSB0;0
 https://www.amazon.com/CeraVe-Moisturizing-Cream-Daily-Moisturizer/dp/B00TTD9BRC;0
@@ -270,6 +281,8 @@ https://www.amazon.com/Amazon-Essentials-Slim-Fit-Wrinkle-Resistant-Long-Sleeve/
 https://www.canon.co.uk/binoculars/14x32_is/;0
 https://www.canon.co.uk/binoculars/12x32_is/;0
 https://www.fotoaparatas.lt/dji-mavic-2;0
+https://it-it.facebook.com/;0
+https://api.tim.it/auth/oauth/v2/authorize/login?action=display&sessionID=8d0f2e36-3e76-4cef-9499-d2605707d415&sessionData=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.ew0KICAgICJzZXNzaW9uIjogew0KICAgICAgICAic2Vzc2lvbklEIjoiOGQwZjJlMzYtM2U3Ni00Y2VmLTk0OTktZDI2MDU3MDdkNDE1IiwNCiAgICAgICAgImV4cCI6MTU5NTYyNjYxOSwNCiAgICAgICAgImN1cnJlbnRfdXNlcm5hbWUiOiIiLA0KICAgICAgICAiY3VycmVudF91c2VyX2NvbnNlbnQiOiJub25lIiwNCiAgICAgICAgImN1cnJlbnRfdXNlcl9yb2xlIjoiIiwNCiAgICAgICAgImN1cnJlbnRfdXNlcl9hY3IiOiIwIiwNCiAgICAgICAgImN1cnJlbnRfdXNlcl9hdXRoVGltZSI6IjAiLA0KICAgICAgICAic2FsdCI6IiIsDQogICAgICAgICJ0aGlyZF9wYXJ0eV9zc29fdG9rZW4iOiIiLA0KICAgICAgICAidGhpcmRfcGFydHlfc3NvX3Rva2VuX3R5cGUiOiIiDQogICAgfSwNCiAgICAicmVxdWVzdF9jb25zZW50Ijogew0KICAgICAgICAiY2xpZW50X25hbWUiOiJQT1JUQUxFX1dFQiIsDQogICAgICAgICJzY29wZV92ZXJpZmllZCI6Im9wZW5pZCtvb2IiDQogICAgfSwNCiAgICAicmVxdWVzdF9wYXJhbWV0ZXJzIjogew0KICAgICAgICAiZGlzcGxheSI6InBhZ2UiLA0KICAgICAgICAicHJvbXB0Ijoibm9uZStTU08iLA0KICAgICAgICAiaWRfdG9rZW5faGludCI6IiIsDQogICAgICAgICJsb2dpbl9oaW50IjoiIiwNCiAgICAgICAgImFjcl92YWx1ZXMiOiIiLA0KICAgICAgICAiY2xpZW50X2lkIjoiMDE3ZGEwNzYtNDQ0Ny00YjgyLTg5ZGYtMTBjZjFjMTU0NzFhIiwNCiAgICAgICAgIm5vbmNlIjoiWkliOXJpeHNkOVgtIiwNCiAgICAgICAgInNjb3BlIjoib3BlbmlkK29vYiIsDQogICAgICAgICJtYXhfYWdlIjogIiINCiAgICB9DQp9.hB5NuFmKY20WPbCjbEa-bA0G65RJoDr2mVnhCaxiDCA;0
 https://www.waterstones.com/book/double-crossed/brian-wood/9780753552599;0
 http://www.lulu.com/shop/michael-a-sanford/tarzan-on-the-precipice/hardcover/product-23256181.html;0
 https://www.unieuro.it/online/Macchine-caff/EDG155-BG-pidDELEDG155BG;0
@@ -286,16 +299,18 @@ https://camerarace.com/recensioni/bridge/Nikon-Coolpix-B500/;1
 https://www.juzaphoto.com/recensione.php?l=it&t=nikon_coolpix_b500;1
 https://www.juzaphoto.com/recensione.php?l=it&t=nikon_coolpix_b500;1
 https://www.subito.it/fotografia/canon-5d-mark-iii-bologna-345789485.htm;1
+https://www.amazon.it/gp/cart/view.html?ref_=nav_cart;0
+https://cart.payments.ebay.co.uk/;0
 https://www.kugoo-scooter.com/products/kugoo-s1-pro-electric-scooter;0
 https://www.amazon.it/SUNTEKCAM-Fotocamera-Fototrappola-Impermeabile-Fotografiche/dp/B07THFYTC8/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=macchine+fotografiche&qid=1595598895&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMkJJT1VaNTFMS1M3JmVuY3J5cHRlZElkPUEwMzAxMjUxM1ZSMzU3OFNaUFU3NCZlbmNyeXB0ZWRBZElkPUEwMDIyNTYwM0FETk5XMEwyNDA4TSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=;1
 https://www.amazon.it/Fujifilm-Instax-Mini-Fotocamera-Istantanea/dp/B06Y698TWW/ref=sr_1_9?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=macchine+fotografiche&qid=1595598929&sr=8-9;1
 https://www.amazon.it/Fotocamera-digitale-Videocamera-studenti-ambienti/dp/B07FKZ8T26/ref=sr_1_4?dchild=1&keywords=macchina+fotografica&qid=1595598905&sr=8-4;1
 https://www.amazon.it/Fotografica-Fotocamera-FamBrow-Videocamera-Grandangolare/dp/B083QCBM3H/ref=sr_1_19?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=macchine+fotografiche&qid=1595598929&sr=8-19;1
 https://www.ebay.it/itm/Reflex-Sony-Alpha-330-3-obiettivi/124267870383?hash=item1ceef138af:g:daEAAOSwkDVfFqKV;1
+https://www.eprice.it/fotocamere-digitali-SAMSUNG/d-6287524;1
 https://it.rs-online.com/web/p/macchine-fotografiche-digitali/1917840?cm_mmc=IT-PLA-DS3A-_-google-_-CSS_IT_IT_Computer_e_periferiche_Whoop-_-(IT:Whoop!)+Macchine+fotografiche+digitali-_-1917840&matchtype=&pla-330517156057&gclid=Cj0KCQjwjer4BRCZARIsABK4QeU7weCUhKojqs2bA1OGxTu6JUvy168AQcrNjR4DwqxX8xBahxN2n1EaAnrrEALw_wcB&gclsrc=aw.ds;1
 https://www.solodigitali.com/fotocamera-digitale-reflex-canon-eos-5d-mark-iv-kit-ef-24-105mm-f-4-0-l-is.html?utm_source=googleshopping&utm_medium=cpc&utm_campaign=direct_link&gclid=Cj0KCQjwjer4BRCZARIsABK4QeXD3S-Xkc0XwUZSl62hpZ5FuuzsXbdGNBz6HO1WPpF8bkAVAKV0b8AaAjNeEALw_wcB;1
-https://www.ibs.it/leica-24018-astuccio-per-fotocamera-foto-e-videocamere-leica/e/4022243240186?lgw_code=1122-W4022243240186&gclid=Cj0KCQjwjer4BRCZARIsABK4QeV_iFmgX16MrAGxAMkIKwtg6S1LN4zoSiFH-YViXOsrAGJJWPSi2UgaAlX8EALw_wcB;1
-
+https://www.ibs.it/leica-24018-astuccio-per-fotocamera-foto-e-videocamere-leica/e/4022243240186?lgw_code=1122-W40;1
 https://www.athema.co.uk/logitech-logitech-zone-wired-headset-emea-for-uc-graphite-981-000875-xep01-p-1875348.html?osCsid=tvghiei251b3a8klg8c893a4eh;0
 https://www.athema.co.uk/dell-9020-mff-i5-4590t8gb128gb-ssdw10p-cmar-9020mff-sb7-xep01-p-1875340.html?osCsid=tvghiei251b3a8klg8c893a4eh;0
 https://www.athema.co.uk/hp-laserjet-1022n-printer-q5913a-refurbished-p-400.html?osCsid=3josom1dc2meoh969d1hha180s;0
@@ -323,13 +338,11 @@ https://www.sears.com/snapper-xd-82-volt-chainsaw-and-hedge/p-SPM8791013902?redi
 https://www.sears.com/stanley-stmt73795-mixed-tool-set-210-piece/p-SPM8818303902?redirectType=SKIP_LEVEL&adcell=hp_FW25_S2b_stanley_toolset;0
 https://www.sears.com/hamilton-beach-brands-inc-49979-flexbrew-single-serve/p-A011579073?adcell=hp_FW25_S4b_hamilton_coffee;0
 
-DOMINI:76 + 37 +25
-POSITIVI:28+13+5
-NEGATIVI:48 +24+20
-POSITIVI/NEGATIVI:0.583 ora: 0.569 ora:
-HOMEPAGE:6
-CATALOGHI:7
-PAGINA PRODOTTO SPECIFICO:63
+DOMINI:140
+POSITIVI:46
+NEGATIVI:94
+POSITIVI/NEGATIVI: 0,489
+
 
 ============================================================================================================================================================================       
 
