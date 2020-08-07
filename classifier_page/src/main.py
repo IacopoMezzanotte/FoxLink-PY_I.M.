@@ -44,13 +44,13 @@ def main():
                     filtered_list = []
                     for page_dict in domain_clusters:
                         label = page_dict['cluster_label']
-                        if label == 'product':
+                        if label == 'products':
                             page_text = page_dict['text']
                             prediction = classifier.predict(model=model, input=page_text)
                             if prediction == [1]:
                                 filtered_list.append(page_dict)
                         #else:
-                           # filtered_list.append(page_dict)
+                            #filtered_list.append(page_dict)
                     content = {
                         'domain': domain,
                         'filtered_pages': filtered_list

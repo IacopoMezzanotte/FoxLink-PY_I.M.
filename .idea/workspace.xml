@@ -21,8 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3c23c884-abd3-439c-a7a7-4806bafef22d" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier_domain/data/training_set.csv" beforeDir="false" afterPath="$PROJECT_DIR$/classifier_domain/data/training_set.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classifier_domain/model/classifier_domain.sav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/classifier_page/model/classifier_page.sav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier_page/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifier_page/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596361257390</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1596366293613</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596366293613</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -132,14 +142,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="353" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595839479452" />
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1596645514490">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596645514490" />
+    <state x="209" y="50" key="MergeDialog" timestamp="1596377879401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="209" y="50" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1596377879401" />
+    <state x="535" y="208" width="386" height="263" key="MultipleFileMergeDialog" timestamp="1596377804577">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="535" y="208" width="386" height="263" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1596377804577" />
     <state x="422" y="75" key="RollbackChangesDialog" timestamp="1596034627414">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="422" y="75" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1596034627414" />
-    <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595944273156">
+    <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596377721367">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1595944273156" />
+    <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1596377721367" />
     <state x="303" y="1" key="search.everywhere.popup" timestamp="1595337641305">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
