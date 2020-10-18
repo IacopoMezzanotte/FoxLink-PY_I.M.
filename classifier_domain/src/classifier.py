@@ -19,6 +19,7 @@ def load_classifier(model, parquet, training_set):
     #Check if the model already exists
     import os
     exists = os.path.isfile(model)
+    print('model: ' + str(exists))
     if not exists:
         print('Addestramento del modello....')
         #Check if the train parquet already exists

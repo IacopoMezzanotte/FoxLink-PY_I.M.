@@ -21,10 +21,21 @@
   <component name="ChangeListManager">
     <list default="true" id="3c23c884-abd3-439c-a7a7-4806bafef22d" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier_domain/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/classifier_domain/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classifier_domain/data/training_set.csv" beforeDir="false" afterPath="$PROJECT_DIR$/classifier_domain/data/training_set.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classifier_domain/model/classifier_domain.sav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classifier_page/model/classifier_page.sav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classifier_page/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifier_page/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier_domain/data/training_set.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier_domain/src/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifier_domain/src/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier_page/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/classifier_page/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier_page/data/training_set.csv" beforeDir="false" afterPath="$PROJECT_DIR$/classifier_page/data/training_set.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier_page/data/training_set.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clusterizer/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/clusterizer/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkage_analyzer/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/linkage_analyzer/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingSetAziende" beforeDir="false" afterPath="$PROJECT_DIR$/trainingSetAziende" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingSetMacchinaFotografica.txt" beforeDir="false" afterPath="$PROJECT_DIR$/trainingSetMacchinaFotografica.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_discovery/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/web_discovery/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_discovery/data/products_seed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/web_discovery/data/products_seed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xpath_finder/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/xpath_finder/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProjects/barPlotTesi" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -142,10 +153,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="353" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595839479452" />
-    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1596645514490">
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1601979413761">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596645514490" />
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601979413761" />
     <state x="209" y="50" key="MergeDialog" timestamp="1596377879401">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -158,10 +169,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="422" y="75" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1596034627414" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603009263159">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603009263159" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596377721367">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1596377721367" />
+    <state x="432" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603009283707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="432" y="242" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1603009283707" />
     <state x="303" y="1" key="search.everywhere.popup" timestamp="1595337641305">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

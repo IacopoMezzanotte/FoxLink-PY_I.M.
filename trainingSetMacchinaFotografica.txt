@@ -189,8 +189,8 @@ https://gomp.uniroma3.it/WorkFlow2011/Logon/Logon.aspx?ReturnUrl=%2f;0
 https://www.hledejlevne.cz;0
 
 DOMINI:188
-POSITIVI:108 
-NEGATIVI:80
+Classificati POSITIVI:108
+Classificati NEGATIVI:80
 HOMEPAGES:74
 CATALOGHI:50
 PRODOTTO:36
@@ -341,7 +341,7 @@ https://www.sears.com/snapper-xd-82-volt-chainsaw-and-hedge/p-SPM8791013902?redi
 https://www.sears.com/stanley-stmt73795-mixed-tool-set-210-piece/p-SPM8818303902?redirectType=SKIP_LEVEL&adcell=hp_FW25_S2b_stanley_toolset;0
 https://www.sears.com/hamilton-beach-brands-inc-49979-flexbrew-single-serve/p-A011579073?adcell=hp_FW25_S4b_hamilton_coffee;0
 
-DOMINI:140
+PAGINE:140
 POSITIVI:46
 NEGATIVI:94
 POSITIVI/NEGATIVI: 0,489
