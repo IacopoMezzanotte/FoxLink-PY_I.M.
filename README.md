@@ -23,3 +23,7 @@ Per cancellare i container dell'applicazione:
 Per cancellare i container della network isolata di comunicazione:
 
     delete_environment.sh
+
+Il file seed è contenuto nella cartella data del Web Discovery. 
+I training set dei classificatori sono contenuti rispettivamente nella cartella data Domain e Page Classifier.
+Per creare un nuovo modello basta eliminare la cartella model presente in entrambi i Classifier.
