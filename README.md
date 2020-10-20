@@ -28,4 +28,4 @@ Il file seed è contenuto nella cartella data del Web Discovery.
 
 I training set dei classificatori sono contenuti rispettivamente nella cartella data del Domain e Page Classifier.
 
-Per creare un nuovo modello basta eliminare la cartella model presente in entrambi i Classifier.
+Per creare un nuovo modello basta eliminare la cartella model presente in entrambi i Classifier e lanciare l'applicativo.
